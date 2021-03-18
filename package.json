@@ -1,0 +1,16 @@
+{
+  "name": "duomai-gateway",
+  "author": {
+    "name": "baranwang",
+    "email": "me@baran.wang"
+  },
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/baranwang/duomai-gateway/issues"
+  }
+}
